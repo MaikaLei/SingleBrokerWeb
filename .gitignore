@@ -1,0 +1,10 @@
+/target/
+/.work/
+/singlebroker.local.properties
+/.singlebroker-data.key
+/backups/
+/singlebroker-database-backup-*.sql
+/SingleBroker-backup-*.zip
+/.idea/
+/nbproject/private/
+*.log

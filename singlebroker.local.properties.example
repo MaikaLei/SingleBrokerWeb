@@ -1,0 +1,5 @@
+# Copie este arquivo para singlebroker.local.properties e ajuste para o seu MySQL.
+db.url=jdbc:mysql://localhost:3306/singlebrokerdb?useSSL=false&serverTimezone=America/Sao_Paulo
+db.user=root
+db.password=
+db.ddl=update
